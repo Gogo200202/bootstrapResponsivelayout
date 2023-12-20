@@ -1,3 +1,3 @@
 # bootstrapResponsivelayout
 This is to show my skills in bootstrap
-[I'm an inline-style link](https://www.google.com)
+[Site host]([https://www.google.com](https://gogo200202.github.io/bootstrapResponsivelayout/)https://gogo200202.github.io/bootstrapResponsivelayout/)
